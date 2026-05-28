@@ -13,6 +13,8 @@ En muchos entornos productivos pequeños, el seguimiento de la producción diari
 
 **MedTrack** resuelve estos problemas ofreciendo una interfaz sencilla y rápida para registrar, editar, eliminar y consultar la producción, con filtros por nombre y fecha, y exportación a Excel.
 
+Estos problemas fueron expresados por la empresa cliente que impulsó la idea de este proyecto, en donde la revisión y guardado de registros físicos de tantos trabajadores en fechas tan dispersas se volvía una tarea ciertamente complicada y propensa a errores humanos a la hora de hacer uso de estas. Este proyecto fue basado especialmente para esta empresa, pero en teoría, debería de poder funcionar para cualquier persona/empresa que requiera su uso para un control de producción simple.
+
 ## Funcionalidades
 
 - **Login de administrador** (único usuario, fácilmente ampliable).
